@@ -7,7 +7,7 @@
         <div class="timeline-content text-center">
           <p class="year">2017 - 2020</p>
           <p class="location">SMA Santa Ursula Jakarta</p>
-          <p class="degree"><br /></p>
+          <p class="degree">Science</p>
         </div>
       </div>
       <!-- Line between -->
