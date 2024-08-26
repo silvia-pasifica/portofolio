@@ -3,6 +3,7 @@ import HomePage from "../components/HomePage.vue";
 import Contact from "../components/ContactPage.vue";
 import ExperiencePage from "../components/ExperiencePage.vue";
 import Portofolio from "../components/PortofolioPage.vue";
+import DetailPage from "../components/DetailPage.vue";
 
 const routes = [
   {
@@ -24,6 +25,12 @@ const routes = [
     path: "/portofolio",
     name: "Portofolio",
     component: Portofolio,
+  },
+  {
+    // path: "/detail/:id",
+    path: "/detail",
+    name: "DetailPage",
+    component: DetailPage,
   },
 ];
 
